@@ -1,2 +1,2 @@
-# Karuna-A-Charity-Donation-App
-Spring boot with React
+# Karuna
+A Charity Donation Web Application
